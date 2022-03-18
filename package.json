@@ -4,7 +4,7 @@
   "description": "Minimalistic boilerplate to quick-start Node.js development in TypeScript.",
   "type": "module",
   "engines": {
-    "node": ">= 16.13 <17"
+    "node": ">= 14.0 <17"
   },
   "devDependencies": {
     "@types/jest": "~27.4",
@@ -38,6 +38,6 @@
     "tslib": "~2.3.1"
   },
   "volta": {
-    "node": "16.13.0"
+    "node": "14.19.0"
   }
 }
